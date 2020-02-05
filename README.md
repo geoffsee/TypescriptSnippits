@@ -1,0 +1,2 @@
+# TypescriptSnippits
+snippits of typescript
